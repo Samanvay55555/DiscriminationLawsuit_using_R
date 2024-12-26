@@ -1,0 +1,27 @@
+R PROJECT: A DISCRIMINATION LAWSUIT
+
+A few years ago, a discrimination lawsuit was filed against the California Department of Development
+Service (DDS). The California DDS provides funding for developmentally disabled individuals within the
+state. The lawsuit claimed that White Non-Hispanic were receiving more funding than Hispanics. If this
+was true, the DDS would face some serious legal and financial ramifications, so they hire you as a
+statistician to analyze the data behind the issue. The data (California_DDS_Expenditures.csv) can be
+found in the Project Module in your course canvas. The DDS is interested in your answers to the
+following questions, which should be submitted in the form of a report. Description of the format of the
+report can also be found in the same Project Module.
+
+1. Create side-by-side boxplots of the Expenditures by Ethnicity (Native American, Asian, etc).
+Describe the plots. Is the lawsuit legitimate? What’s your conclusion?
+
+2. Now subset the data by Age Group (0 to 5 years old, 6 to 12 years old, 13 to 17 years old, 18 to
+21 years old, 22 to 50 years old and 51+ years old). Then create side-by-side boxplots of the
+Expenditures by Ethnicity for each of the Age Groups. Describe the new plots. What’s your
+conclusion?
+
+3. In order to anticipate a future lawsuit about Gender discrimination, now subset your data by
+Gender (Female and Male).
+
+a. Construct bar charts using Age Group (defined above) as classes (categories) for the
+Expenditures for each Gender. Describe each bar chart and compare the bar charts of the two
+gender groups. Does it appear to be discrimination based on Gender?
+
+b. Now create bar charts using Ethnicity as classes for each gender. What is your findings?
