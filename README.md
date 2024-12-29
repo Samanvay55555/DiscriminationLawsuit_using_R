@@ -1,4 +1,4 @@
-# DiscriminationLawsuit_using_R
+# Discrimination_Lawsuit_using_R
 
 🧮 Discrimination Lawsuit: Analyzing Expenditures by Ethnicity and Gender in California DDS
 
